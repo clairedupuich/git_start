@@ -1,5 +1,7 @@
 def say_hello(n):
-    if n == "claire":
+    if n == "claire" :
+        print("hello",n)
+    elif n== "Thanh Lan":
         print("hello",n)
     else :
-        print("jeee")
+        print("Je ne te connais pas")
